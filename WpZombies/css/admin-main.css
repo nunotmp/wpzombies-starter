@@ -1,0 +1,6 @@
+#logo-preview { text-align: center; }
+#logo-preview img {
+max-width: 99%;
+border: 4px solid white;
+box-shadow: 0 0 5px #ccc;
+}
